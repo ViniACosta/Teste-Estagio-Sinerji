@@ -4,7 +4,7 @@ Este projeto resolve o teste prático de Orientação a Objetos em Java proposto
 
 ---
 
-## 📚 Funcionalidades
+## Funcionalidades
 
 - Cálculo de salário e benefício por tipo de funcionário
 - Registro de vendas mensais para vendedores
@@ -17,7 +17,7 @@ Este projeto resolve o teste prático de Orientação a Objetos em Java proposto
 
 ---
 
-## 🧠 Conceitos usados
+## Conceitos usados
 
 - Programação Orientada a Objetos (POO)
 - Herança e Polimorfismo
